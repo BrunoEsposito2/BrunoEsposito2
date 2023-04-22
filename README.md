@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Random GitHub stats
+### GitHub stats
 
 <div align="center">
 
